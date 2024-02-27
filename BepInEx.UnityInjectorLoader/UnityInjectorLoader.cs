@@ -12,7 +12,7 @@ using UnityInjector.Attributes;
 
 namespace BepInEx.UnityInjectorLoader
 {
-	[BepInPlugin("org.bepinex.plugins.unityinjectorloader", "UnityInjector Plugin Loader", "1.0")]
+	[BepInPlugin("org.bepinex.plugins.unityinjectorloader", "UnityInjector Plugin Loader", "1.5.0.1")]
 	public class UnityInjectorLoader : BaseUnityPlugin
 	{
 		internal new static ManualLogSource Logger;
