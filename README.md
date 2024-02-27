@@ -1,3 +1,6 @@
+# Why Fork?
+https://github.com/BepInEx/BepInEx.UnityInjectorLoader/issues/3
+
 # UnityInjector loader for BepInEx
 
 This is UnityInjector loader for [BepInEx](https://github.com/BepInEx/BepInEx).
